@@ -1,0 +1,1 @@
+androidannotations.maven-snapshots
